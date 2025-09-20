@@ -1,0 +1,19 @@
+runtime: nodejs20
+
+# Serve the built React app
+handlers:
+  - url: /
+    static_files: dist/index.html
+    upload: dist/index.html
+    secure: always
+
+  - url: /(.*)
+    static_files: dist/\1
+    upload: dist/(.*)
+    secure: always
+
+# Basic scaling for free tier
+automatic_scaling:
+  min_instances: 0
+  max_instances: 2
+  target_cpu_utilization: 0.6
