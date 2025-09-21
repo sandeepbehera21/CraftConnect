@@ -68,20 +68,6 @@ Database (MongoDB Atlas)
 AI (Google Gemini API)
 Benefits: Microservices, scalable, secure, auto-scaling, high availability.
 
-💰 Cost & ROI (INR)
-One-time Dev: ₹17.6L – ₹29.6L
-Monthly Operations: ₹8.4k – ₹37.6k
-Scaling (1000+ users): ₹32k – ₹96k
-
-ROI:
-
-Break-even: 6–12 months
-
-Revenue per artisan: ₹4k – ₹16k/month
-
-Commission: 5–10%
-
-Projected annual revenue: ₹40L – ₹1.6Cr
 
 🏆 Hackathon Compliance & Highlights
 Compliance: ☁️ Cloud Integration | 🤖 AI (Gemini) | 🌐 Full-Stack | 💡 Innovation | 👩‍🎨 Social Impact | ⚡ Scalability
