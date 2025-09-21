@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://i.ibb.co/Zm8s0hG/craftconnect-banner.png" alt="CraftConnect Banner" width="800"/>
-</p>
 
 <h1 align="center">🎨 CraftConnect - AI-Powered Artisan Marketplace</h1>
 
@@ -168,4 +165,4 @@ Visit: `https://your-backend-url/api/health` to verify Gemini API is configured.
 ## 📜 License
 MIT License
 
-<p align="center"> Made with ❤️ by Sandeep Behera for Hackathon 2025 
+<p align="center"> Made with ❤️ by Sandeep Behera for Gen AI Exchange Hackathon 2025 
