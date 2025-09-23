@@ -126,7 +126,7 @@ gcloud app deploy frontend-app.yaml
 ### Required Environment Variables
 
 **Backend (.env)**:
-- `GEMINI_API_KEY`: Get from [Google AI Studio](https://makersuite.google.com/app/apikey)
+- `GEMINI_API_KEY`: Get from [Google Cloud Console](https://console.cloud.google.com/apis/credentials)
 - `MONGO_URI`: MongoDB connection string
 - `JWT_SECRET`: Secure random string
 - `FRONTEND_ORIGIN`: Your frontend URL
