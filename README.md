@@ -151,4 +151,4 @@ Visit: `https://your-backend-url/api/health` to verify Gemini API is configured.
 ## 📜 License
 MIT License
 
-<p align="center"> Made with ❤️ by Sandeep Behera for Gen AI Exchange Hackathon 2025 
+
